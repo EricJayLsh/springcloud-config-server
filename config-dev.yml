@@ -25,6 +25,7 @@ eureka:
 #自定义的配置信息用于测试客户端读取
 ericjaylsh: 
   info: 这里是配置中心的 config-dev.yml文件 你成功地找到了我 爱你呦 
+  mojito: you are my honey
 
     
      
