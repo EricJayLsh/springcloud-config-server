@@ -3,4 +3,4 @@
 
 地址： https://github.com/EricJayLsh/springcloud-config-server.git
     
-分支：master
+分支：dev
